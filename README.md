@@ -1,8 +1,6 @@
-react-web-native-app
+# react-web-native-app
 
 ===
-
-react-web-native-app example with weather
 
 ## Features
 
