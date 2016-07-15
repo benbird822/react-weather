@@ -24,6 +24,16 @@
 * app
 	* darwin / linux / win32
 
+## Preview
+
+<img src="http://ww2.sinaimg.cn/large/627bf01djw1f5ukfxxnh2g20dc0nmnpe.gif" width="280">
+<img src="http://ww2.sinaimg.cn/large/627bf01djw1f5ukf11hjog20dc0nlb2b.gif" width="280">
+
+
+<img src="http://ww2.sinaimg.cn/large/627bf01djw1f5ukhf9uvhg20dc08o4qr.gif" width="280">
+<img src="http://ww1.sinaimg.cn/large/627bf01djw1f5ukie6fxcg20dc08okjl.gif" width="280">
+
+
 ## Dev Environment
 
 * os：OS X Yosemite 10.10.5
