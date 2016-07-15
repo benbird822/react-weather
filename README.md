@@ -1,7 +1,5 @@
 # react-web-native-app
 
-===
-
 ## Features
 
 * Involve web/native/app clients, try clients fusion
@@ -26,12 +24,13 @@
 
 ## Preview
 
-<img src="http://ww2.sinaimg.cn/large/627bf01djw1f5ukfxxnh2g20dc0nmnpe.gif" width="280">
-<img src="http://ww2.sinaimg.cn/large/627bf01djw1f5ukf11hjog20dc0nlb2b.gif" width="280">
+<img src="http://ww2.sinaimg.cn/large/627bf01djw1f5ukfxxnh2g20dc0nmnpe.gif" width="280" title="iOS">
+<img src="http://ww2.sinaimg.cn/large/627bf01djw1f5ukf11hjog20dc0nlb2b.gif" width="280" title="Android">
 
+<img src="http://ww2.sinaimg.cn/large/627bf01djw1f5ukhf9uvhg20dc08o4qr.gif" width="280" title="web">
 
-<img src="http://ww2.sinaimg.cn/large/627bf01djw1f5ukhf9uvhg20dc08o4qr.gif" width="280">
-<img src="http://ww1.sinaimg.cn/large/627bf01djw1f5ukie6fxcg20dc08okjl.gif" width="280">
+<img src="http://ww1.sinaimg.cn/large/627bf01djw1f5ukie6fxcg20dc08okjl.gif" width="280" title="app-osx">
+<img src="http://ww1.sinaimg.cn/large/627bf01djw1f5uqrxx9e2g20dc08on5f.gif" width="280" title="app-win7">
 
 
 ## Dev Environment
